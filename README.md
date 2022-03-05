@@ -1,4 +1,4 @@
-# clinica
+# Clínica
 
 #1. Criar uma tela com 4 botões
 
