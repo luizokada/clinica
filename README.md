@@ -35,5 +35,7 @@ Esse projeto foi desenvolvido na IDE Eclipse para rodar o código primeiro é ne
 No arquivo localizado em base/bancoDeDados na linha 9:
 return  DriverManager.getConnection("jdbc:mysql://localhost:3306/teste?useTimezone=true&serverTimezone=UTC", "root", "Omegacode@01");
 
-troque teste pelo nome do database que foi criado localmente e onde esta "root" troque para o usuário local e onde está senha troque para a senha 
-de acesso desse usuário
+Troque teste pelo nome do database que foi criado localmente e onde esta "root" troque para o usuário local e onde está senha troque para a senha 
+de acesso desse usuário.
+
+Após isso basta rodar a funçao main localizada em base/Main
