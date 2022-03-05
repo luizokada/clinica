@@ -6,20 +6,20 @@
 2. No primeiro botão, deve ser utilizado para cadastrar um paciente com
 os seguintes dados:
 
-a. Código (gerado automaticamente)
+  a. Código (gerado automaticamente)
 
-b. Nome do paciente
+  b. Nome do paciente
 
-c. Data de nascimento
+  c. Data de nascimento
 
-d. Endereço
+  d. Endereço
 
-e. Observações.
+  e. Observações.
 
 
 3. No segundo botão, deve ser utilizado para editar um paciente:
 
-a. Ao clicar nele, deve dar a opção de pesquisar um paciente cadastrado
+  a. Ao clicar nele, deve dar a opção de pesquisar um paciente cadastrado
 e alterar os dados cadastrados dele.
 
 
